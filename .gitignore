@@ -1,6 +1,9 @@
 # DEPENDENCIES
 node_modules
 
+# BUILD OUTPUT
+projects/*/dist
+
 # LOGGING
 npm-debug.log
 
@@ -10,3 +13,6 @@ npm-debug.log
 
 # ENVIRONMENT
 .env
+
+# STORAGE
+projects/relay/multiroom-relay.db
