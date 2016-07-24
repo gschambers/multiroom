@@ -1,0 +1,14 @@
+{
+  "name": "multiroom-relay",
+  "version": "1.0.0",
+  "description": "Command relay for multiroom media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test | faucet"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.6"
+  }
+}

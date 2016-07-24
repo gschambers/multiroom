@@ -1,0 +1,12 @@
+# DEPENDENCIES
+node_modules
+
+# LOGGING
+npm-debug.log
+
+# TEMP
+.DS_Store
+._*
+
+# ENVIRONMENT
+.env

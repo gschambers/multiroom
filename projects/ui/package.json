@@ -1,0 +1,20 @@
+{
+  "name": "multiroom-ui",
+  "version": "1.0.0",
+  "description": "UI for multiroom media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test | faucet"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "domready": "^1.0.8",
+    "express": "^4.14.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-router": "^2.6.0"
+  },
+  "devDependencies": {
+    "enzyme": "^2.4.1"
+  }
+}

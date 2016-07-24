@@ -1,0 +1,15 @@
+{
+  "name": "multiroom-node",
+  "version": "1.0.0",
+  "description": "Node (receiver) for multiroom media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test | faucet"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.14.0",
+    "getmac": "^1.2.1",
+    "jsonwebtoken": "^7.1.6"
+  }
+}
