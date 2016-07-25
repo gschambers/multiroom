@@ -2,19 +2,5 @@
   "name": "multiroom",
   "version": "1.0.0",
   "description": "Multiroom media platform",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "babel-core": "^6.11.4",
-    "babel-plugin-syntax-async-functions": "^6.8.0",
-    "babel-plugin-transform-regenerator": "^6.11.4",
-    "babel-preset-es2015": "^6.9.0",
-    "faucet": "0.0.1",
-    "glob": "^7.0.5",
-    "proxyquire": "^1.7.10",
-    "sinon": "^1.17.4",
-    "tape": "^4.6.0"
-  }
+  "main": "index.js"
 }
